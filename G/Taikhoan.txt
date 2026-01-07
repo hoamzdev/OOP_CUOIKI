@@ -1,0 +1,2 @@
+2,Ma tai khoan: CT01, Ten chu tai khoan: HOA, So du: 2000000.00, Lai suat: 0.40, Ki han: 5 nam
+1,Ma tai khoan: CT02, Ten chu tai khoan: HOA van hoa, So du: 1000000.00, Loai the: Tra sau, So luong giao dich: 20

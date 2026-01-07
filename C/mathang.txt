@@ -1,0 +1,21 @@
+
+1,MA001,Bun bo,50,30000,true
+1,MA002,Pho bo,40,35000,false
+1,MA003,Com rang,60,25000,true
+1,MA004,Banh mi,100,15000,false
+2,DU001,Tra da,200,2000,false
+2,DU002,Ca phe den,80,12000,true
+2,DU003,Ca phe sua,90,15000,true
+2,DU004,Nuoc cam,60,18000,false
+2,DU005,Sinh to bo,40,25000,false
+2,DU006,Tra sua,100,22000,false
+2,DU007,Nuoc suoi,150,5000,false
+1,MA005,Hu tieu,45,28000,true
+1,MA006,Mi xao,55,27000,false
+1,MA007,Chao long,30,20000,true
+1,MA008,Bun cha,35,32000,true
+1,MA009,Com ga,25,40000,false
+1,MA010,Banh cuon,70,22000,true
+2,DU008,Cacao nong,30,20000,true
+2,DU009,Tra gung,35,17000,true
+2,DU010,Nuoc ep tao,45,19000,false

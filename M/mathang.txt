@@ -1,0 +1,19 @@
+1,CT1,Ca phe,10,15000,false
+1,CT2,Tra sua,13,10000,false
+1,CT3,Ca phe M1,1,12000,true
+1,CT4,Ca phe M2,3,50000,true
+1,CT5,Ca phe M3,2,25000,true
+1,CT6,Ca phe M5,5,40000,true
+1,CT7,Ca phe m6,6,55000,false
+1,CT8,Ca cao,10,25000,false
+2,CT01,Com rang,2,20000,true
+2,CT02,Com rang,2,20000,true
+2,CT03,Com rang,2,20000,true
+2,CT010,Com rang,2,20000,false
+2,CT05,Com rang,2,20000,true
+2,CT06,Com rang,2,20000,true
+2,CT07,Com rang,2,20000,false
+2,CT08,Com rang,2,20000,true
+2,CT09,Com rang,2,20000,true
+2,CT00,Com rang,2,20000,false
+2,CT04,Com rang,2,20000,false

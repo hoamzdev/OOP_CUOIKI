@@ -1,0 +1,14 @@
+ //doc file
+        try (FileInputStream fis = new FileInputStream(file)) {
+            byte[] buffer = new byte[(int) file.length()];
+            int bytesRead = fis.read(buffer);
+            System.out.println(bytesRead);
+
+            //chuyen byte thanh String 
+            String content = new String(buffer, 0, bytesRead);
+            System.out.println(content);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            System.out.println("Doc file thanh cong");
+        }

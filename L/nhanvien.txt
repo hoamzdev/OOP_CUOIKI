@@ -1,0 +1,2 @@
+1,dINH VAN HOA, 45 nam, THAI BINH, 3.5, 350000.00, Bep truong, 100000.00
+2,HOA, 1 nam, Thai Binh, 90.0, 9000000.00, Biet ngoai ngu
