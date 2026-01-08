@@ -37,6 +37,7 @@ public class AA_UI extends javax.swing.JFrame {
                 return false;
             }
         };
+        
         tbNhanVienThuNgan.setModel(mdThuNgan);
         tbBEp.setModel(mdBep);
         
@@ -61,6 +62,7 @@ public class AA_UI extends javax.swing.JFrame {
             String shlv = edtSoGioLamViec.getText();
             float thamNien = 0.0F;
             float soGioLamViec = 0.0F;
+            
             try{
                 thamNien = Float.parseFloat(tn);
             }catch(NumberFormatException e){
@@ -114,7 +116,6 @@ public class AA_UI extends javax.swing.JFrame {
             }
         });
     }
-    
     
     private void showMsg(String msg){
         JOptionPane.showMessageDialog(null, msg);
